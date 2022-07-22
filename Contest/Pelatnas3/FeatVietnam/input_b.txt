@@ -1,0 +1,11 @@
+5 5 1 8 2
+0 0
+1 right
+1 right
+1 right
+1 right
+1 down
+1 down
+1 down
+1 down
+\n

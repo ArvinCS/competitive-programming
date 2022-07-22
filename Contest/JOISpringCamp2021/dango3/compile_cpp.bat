@@ -1,0 +1,1 @@
+g++ -std=gnu++11 -O2 -o grader grader.cpp dango3.cpp

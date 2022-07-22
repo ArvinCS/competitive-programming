@@ -1,0 +1,1 @@
+g++ -std=gnu++17 -O2 -o machine grader.cpp bruno.cpp anna.cpp

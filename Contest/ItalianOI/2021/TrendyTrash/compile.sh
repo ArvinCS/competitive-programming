@@ -1,0 +1,1 @@
+g++.exe -DEVAL -std=gnu++17 -O3 -march=native -pipe -static -s -o trendytrash grader.cpp trendytrash.cpp

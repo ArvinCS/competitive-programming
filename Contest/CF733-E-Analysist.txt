@@ -1,0 +1,28 @@
+aaaabbbbcccdd
+1 -> aabababbcccdd
+
+aaaabbbbcccccdd
+1 -> aabababbcccccdd
+1 -> aabababbcccccdd
+
+aaabbbccccdd
+1 -> aababbccccdd
+
+
+aabbbbbbbccdd
+1 -> aabbbbbbbccdd
+
+aaaaabbcc
+1 -> aababacac
+
+aaaaaaaabbccdd
+1 -> aababacacadada
+
+aaaaaaaabbcc
+1 -> abaaaaaaacbc
+
+aaaaaaabb
+1 -> abbaaaaaa
+
+aaaaaaabbbbb
+aaaaaaaabbcc

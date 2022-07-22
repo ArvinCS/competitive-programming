@@ -1,0 +1,1 @@
+g++ -Wl,--stack,256777216 -o FBHC2021R2-B.exe FBHC2021R2-B.cpp
